@@ -53,11 +53,75 @@
 		"picture": null
 	},
 	"tenants": [{
-		"display_floor": 3,
+		"display_floor": 1,
 		"display_tenant": "Svevia AB"
 	},
 	{
-		"display_floor": 1,
+		"display_floor": 2,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 3,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 4,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 5,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 6,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 7,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 8,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 9,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 10,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 11,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 12,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 13,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 14,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 15,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 16,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 17,
+		"display_tenant": "Barona"
+	},
+	{
+		"display_floor": 18,
 		"display_tenant": "Barona"
 	}],
 	"displays": [{
