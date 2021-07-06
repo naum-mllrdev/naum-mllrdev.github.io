@@ -65,10 +65,6 @@
             "display_floor": 2,
             "display_tenant": "Adecco Group"
         },
-        {
-            "display_floor": 1,
-            "display_tenant": "Barona"
-        }
     ],
     "displays": [
         {
@@ -82,7 +78,7 @@
             "_id": 1009,
             "title": "Följ Folkhälsomyndighetens rekommendationer",
             "datefrom": "2020-11-11 00:00",
-            "dateto": "2021-09-30 00:00",
+            "dateto": "2021-01-30 00:00",
             "message": "Håll avstånd",
             "banner": true,
             "picture": {
@@ -95,7 +91,7 @@
             "_id": 1014,
             "title": "Följ Solna Business Park på Instagram!",
             "datefrom": "2020-11-26 00:00",
-            "dateto": "2021-09-30 00:00",
+            "dateto": "2021-01-30 00:00",
             "message": "Sök: solnabusinesspark på din Instagram och ta del av det senaste i området!",
             "banner": false,
             "picture": {
